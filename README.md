@@ -1,2 +1,1 @@
-# dryline-preview
-Static preview of an irrigation company website mock. Not a live business site.
+Static website preview for Dryline Irrigation. This is a mock preview, not a live business site.
